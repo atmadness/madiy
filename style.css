@@ -1,0 +1,15 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: arfal;
+}
+
+body{
+	height: 100vh;
+	background: linear-gradient(to right, lightpink 0%, lightpink 15%, #c5d1be 15%, #c5d1be 100%);
+}
+ hr{
+ 	position: absolute;
+ 	top: 26%;
+ 	left: -2px;
+ }
